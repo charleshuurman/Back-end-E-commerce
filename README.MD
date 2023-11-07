@@ -41,7 +41,7 @@ Example API calls include:
 
 For a demonstration of the application's functionality, please refer to the following video:
 
-[![Demo Video]<img src="screenshot2.jpg" alt="MySQL Terminal Screenshot" height="300">](https://youtu.be/Lsym_bs653E)
+[<img src="screenshot2.jpg" alt="MySQL Terminal Screenshot" height="200">](https://youtu.be/Lsym_bs653E)
 
 ## Screenshot
 
